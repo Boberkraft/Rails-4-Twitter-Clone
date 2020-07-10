@@ -3,7 +3,7 @@ default: &default
   encoding: utf8
   username: root
   password: admin
-  host: localhost
+  host: 127.0.0.1
   port: <%= ENV['DB_PORT'] %>
 
 development:
