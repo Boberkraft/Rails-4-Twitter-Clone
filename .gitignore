@@ -16,3 +16,7 @@
 /tmp
 
 /coverage
+.idea/.generators
+.idea/.rakeTasks
+*.xml
+.idea/Rails-4-Twitter-Clone.iml
