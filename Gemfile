@@ -4,7 +4,7 @@ ruby '2.3.3'
 
 
 gem 'rails', '4.2.3'
-gem 'mysql2', '~> 0.4.0'
+gem 'mysql2', '= 0.3.18'
 # Use SCSS for stylesheets
 gem 'sass-rails', '= 5.0.7'
 # Use Uglifier as compressor for JavaScript assets
