@@ -4,7 +4,7 @@ default: &default
   username: root
   password: admin
   host: 127.0.0.1
-  port: <%= ENV['DB_PORT'] %>
+  port: 3306
 
 development:
   <<: *default
